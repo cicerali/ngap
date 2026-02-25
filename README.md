@@ -30,3 +30,4 @@ dependencies {
     implementation 'com.github.cicerali:ngap:0.9.2'
 }
 ```
+[![](https://jitpack.io/v/cicerali/ngap.svg)](https://jitpack.io/#cicerali/ngap)
